@@ -1,0 +1,14 @@
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.AssemblyInfoInputs.cache
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.AssemblyInfo.cs
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.csproj.CoreCompileInputs.cache
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\bin\Debug\net8.0\MergeString.exe
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\bin\Debug\net8.0\MergeString.deps.json
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\bin\Debug\net8.0\MergeString.runtimeconfig.json
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\bin\Debug\net8.0\MergeString.dll
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\bin\Debug\net8.0\MergeString.pdb
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.dll
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\refint\MergeString.dll
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.pdb
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\MergeString.genruntimeconfig.cache
+D:\Projetos\LeetCode\MergeString\MergeString\MergeString\obj\Debug\net8.0\ref\MergeString.dll

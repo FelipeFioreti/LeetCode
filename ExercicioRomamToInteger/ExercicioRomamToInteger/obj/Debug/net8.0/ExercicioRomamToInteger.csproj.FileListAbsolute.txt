@@ -1,0 +1,14 @@
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\bin\Debug\net8.0\ExercicioRomamToInteger.exe
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\bin\Debug\net8.0\ExercicioRomamToInteger.deps.json
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\bin\Debug\net8.0\ExercicioRomamToInteger.runtimeconfig.json
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\bin\Debug\net8.0\ExercicioRomamToInteger.dll
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\bin\Debug\net8.0\ExercicioRomamToInteger.pdb
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.AssemblyInfoInputs.cache
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.AssemblyInfo.cs
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.csproj.CoreCompileInputs.cache
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.dll
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\refint\ExercicioRomamToInteger.dll
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.pdb
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ExercicioRomamToInteger.genruntimeconfig.cache
+D:\Projetos\LeetCode\ExercicioRomamToInteger\ExercicioRomamToInteger\obj\Debug\net8.0\ref\ExercicioRomamToInteger.dll
