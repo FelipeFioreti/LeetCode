@@ -1,0 +1,30 @@
+D:\Projetos\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.exe
+D:\Projetos\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.deps.json
+D:\Projetos\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.runtimeconfig.json
+D:\Projetos\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.dll
+D:\Projetos\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.pdb
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfoInputs.cache
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfo.cs
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.csproj.CoreCompileInputs.cache
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.sourcelink.json
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.dll
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\refint\PlusOne.dll
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.pdb
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.genruntimeconfig.cache
+D:\Projetos\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\ref\PlusOne.dll
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.exe
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.deps.json
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.runtimeconfig.json
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.dll
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.pdb
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfoInputs.cache
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfo.cs
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.csproj.CoreCompileInputs.cache
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.sourcelink.json
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.dll
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\refint\PlusOne.dll
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.pdb
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.genruntimeconfig.cache
+D:\Projetos para serem organizados\LeetCode\PlusOne\PlusOne\obj\Debug\net8.0\ref\PlusOne.dll
