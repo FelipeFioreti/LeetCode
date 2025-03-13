@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0040482411006\\source\\repos\\HappyNumber\\",
+  "WorkspaceRootPath": "D:\\Estudos\\Exerc\u00EDcioProg\\LeetCode\\LeetCode\\HappyNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFC6BB45-81AD-47F6-8F9E-C875AB65EA8B}|HappyNumber\\HappyNumber.csproj|c:\\users\\0040482411006\\source\\repos\\happynumber\\happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFC6BB45-81AD-47F6-8F9E-C875AB65EA8B}|HappyNumber\\HappyNumber.csproj|d:\\estudos\\exerc\u00EDcioprog\\leetcode\\leetcode\\happynumber\\happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFC6BB45-81AD-47F6-8F9E-C875AB65EA8B}|HappyNumber\\HappyNumber.csproj|solutionrelative:happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0040482411006\\source\\repos\\HappyNumber\\HappyNumber\\Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\Exerc\u00EDcioProg\\LeetCode\\LeetCode\\HappyNumber\\HappyNumber\\Program.cs",
               "RelativeDocumentMoniker": "HappyNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\0040482411006\\source\\repos\\HappyNumber\\HappyNumber\\Program.cs",
+              "ToolTip": "D:\\Estudos\\Exerc\u00EDcioProg\\LeetCode\\LeetCode\\HappyNumber\\HappyNumber\\Program.cs",
               "RelativeToolTip": "HappyNumber\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T10:59:47.226Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

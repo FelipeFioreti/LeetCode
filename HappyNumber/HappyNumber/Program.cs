@@ -2,8 +2,6 @@
 bool isHappy(int n)
 {
     int number = n;
-
-    int count = 0;
     int agregate = 0;
 
     LinkedList<int> digitsNumber = new LinkedList<int>();
@@ -14,7 +12,6 @@ bool isHappy(int n)
         while (number > 0)
         {
             digitsNumber.AddFirst(number % 10);
-
             number /= 10;
         }
 
@@ -23,11 +20,9 @@ bool isHappy(int n)
             agregate += item * item;
         }
 
-        Console.WriteLine(agregate);
-
         if (agregate == 1)
         {
-            return false;
+            return true;
         }
 
         if (numberList.Contains(agregate))
@@ -38,6 +33,8 @@ bool isHappy(int n)
         numberList.AddLast(agregate);
         number = agregate;
         agregate = 0;
+        digitsNumber.Clear();
+    
     }
 }
 

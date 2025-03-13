@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HappyNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeab6dc4d709e7a1d945a2b5c7d51fd6ed65f5c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HappyNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HappyNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

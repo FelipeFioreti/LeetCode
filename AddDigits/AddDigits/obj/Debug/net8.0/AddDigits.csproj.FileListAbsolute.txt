@@ -1,0 +1,15 @@
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\bin\Debug\net8.0\AddDigits.exe
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\bin\Debug\net8.0\AddDigits.deps.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\bin\Debug\net8.0\AddDigits.runtimeconfig.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\bin\Debug\net8.0\AddDigits.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\bin\Debug\net8.0\AddDigits.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.AssemblyInfoInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.AssemblyInfo.cs
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.csproj.CoreCompileInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.sourcelink.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\refint\AddDigits.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\AddDigits.genruntimeconfig.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddDigits\AddDigits\obj\Debug\net8.0\ref\AddDigits.dll
