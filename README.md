@@ -1,2 +1,2 @@
 # LeetCode
-Repository for LeetCode exercises
+LeetCode Exercise Repository
