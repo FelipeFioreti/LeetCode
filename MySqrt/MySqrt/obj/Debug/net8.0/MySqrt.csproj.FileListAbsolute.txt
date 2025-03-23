@@ -1,0 +1,15 @@
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\bin\Debug\net8.0\MySqrt.exe
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\bin\Debug\net8.0\MySqrt.deps.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\bin\Debug\net8.0\MySqrt.runtimeconfig.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\bin\Debug\net8.0\MySqrt.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\bin\Debug\net8.0\MySqrt.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.AssemblyInfoInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.AssemblyInfo.cs
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.csproj.CoreCompileInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.sourcelink.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\refint\MySqrt.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\MySqrt.genruntimeconfig.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\MySqrt\MySqrt\obj\Debug\net8.0\ref\MySqrt.dll

@@ -1,0 +1,15 @@
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\bin\Debug\net8.0\DivideArrayEqualPairs.exe
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\bin\Debug\net8.0\DivideArrayEqualPairs.deps.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\bin\Debug\net8.0\DivideArrayEqualPairs.runtimeconfig.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\bin\Debug\net8.0\DivideArrayEqualPairs.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\bin\Debug\net8.0\DivideArrayEqualPairs.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.AssemblyInfoInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.AssemblyInfo.cs
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.csproj.CoreCompileInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.sourcelink.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\refint\DivideArrayEqualPairs.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\DivideArrayEqualPairs.genruntimeconfig.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\DivideArrayEqualPairs\DivideArrayEqualPairs\obj\Debug\net8.0\ref\DivideArrayEqualPairs.dll

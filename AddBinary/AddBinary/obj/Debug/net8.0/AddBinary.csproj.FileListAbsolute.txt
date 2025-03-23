@@ -1,0 +1,15 @@
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\bin\Debug\net8.0\AddBinary.exe
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\bin\Debug\net8.0\AddBinary.deps.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\bin\Debug\net8.0\AddBinary.runtimeconfig.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\bin\Debug\net8.0\AddBinary.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\bin\Debug\net8.0\AddBinary.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfoInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfo.cs
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.csproj.CoreCompileInputs.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.sourcelink.json
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\refint\AddBinary.dll
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.pdb
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\AddBinary.genruntimeconfig.cache
+D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\obj\Debug\net8.0\ref\AddBinary.dll
