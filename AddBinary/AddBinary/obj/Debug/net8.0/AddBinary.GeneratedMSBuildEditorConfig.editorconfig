@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AddBinary
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Estudos\ExercícioProg\LeetCode\LeetCode\AddBinary\AddBinary\
+=======
+build_property.ProjectDir = C:\Users\0040482411006\Documents\LeetCode\AddBinary\AddBinary\
+>>>>>>> a39292becd792307d0a488965744d05e766e88f1
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

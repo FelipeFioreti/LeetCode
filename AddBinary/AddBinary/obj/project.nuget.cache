@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vlimkZAF/MQ=",
   "success": true,
   "projectFilePath": "D:\\Estudos\\ExercícioProg\\LeetCode\\LeetCode\\AddBinary\\AddBinary\\AddBinary.csproj",
+=======
+  "dgSpecHash": "lhDyWtdFxaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0040482411006\\Documents\\LeetCode\\AddBinary\\AddBinary\\AddBinary.csproj",
+>>>>>>> a39292becd792307d0a488965744d05e766e88f1
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,10 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Estudos\\Exerc\u00EDcioProg\\LeetCode\\LeetCode\\AddBinary\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{4FF372B7-18E7-436A-AF1F-1D96C097DFA6}|AddBinary\\AddBinary.csproj|d:\\estudos\\exerc\u00EDcioprog\\leetcode\\leetcode\\addbinary\\addbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FF372B7-18E7-436A-AF1F-1D96C097DFA6}|AddBinary\\AddBinary.csproj|solutionrelative:addbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\0040482411006\\Documents\\LeetCode\\AddBinary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4EB92-ECA3-4E31-AB49-BE08A9D1744D}|AddBinary\\AddBinary.csproj|c:\\users\\0040482411006\\documents\\leetcode\\addbinary\\addbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D4EB92-ECA3-4E31-AB49-BE08A9D1744D}|AddBinary\\AddBinary.csproj|solutionrelative:addbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> a39292becd792307d0a488965744d05e766e88f1
     }
   ],
   "DocumentGroupContainers": [
@@ -14,6 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -31,6 +40,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T19:58:31.096Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0040482411006\\Documents\\LeetCode\\AddBinary\\AddBinary\\Program.cs",
+              "RelativeDocumentMoniker": "AddBinary\\Program.cs",
+              "ToolTip": "C:\\Users\\0040482411006\\Documents\\LeetCode\\AddBinary\\AddBinary\\Program.cs",
+              "RelativeToolTip": "AddBinary\\Program.cs",
+              "ViewState": "AgIAAF4AAACA2u09i+ctwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:19:24.11Z",
+>>>>>>> a39292becd792307d0a488965744d05e766e88f1
               "EditorCaption": ""
             }
           ]
