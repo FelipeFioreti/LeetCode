@@ -1,0 +1,14 @@
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.exe
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.deps.json
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.runtimeconfig.json
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.dll
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.pdb
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfo.cs
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.dll
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\refint\SearchInsertPosition.dll
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.pdb
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.genruntimeconfig.cache
+C:\Users\fiore\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net8.0\ref\SearchInsertPosition.dll
