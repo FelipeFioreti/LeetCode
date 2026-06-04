@@ -1,0 +1,15 @@
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\bin\Debug\net10.0\MergeTwoLists.exe
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\bin\Debug\net10.0\MergeTwoLists.deps.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\bin\Debug\net10.0\MergeTwoLists.runtimeconfig.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\bin\Debug\net10.0\MergeTwoLists.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\bin\Debug\net10.0\MergeTwoLists.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.AssemblyInfoInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.AssemblyInfo.cs
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.csproj.CoreCompileInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.sourcelink.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\refint\MergeTwoLists.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\MergeTwoLists.genruntimeconfig.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\MergeTwoLists\MergeTwoLists\obj\Debug\net10.0\ref\MergeTwoLists.dll

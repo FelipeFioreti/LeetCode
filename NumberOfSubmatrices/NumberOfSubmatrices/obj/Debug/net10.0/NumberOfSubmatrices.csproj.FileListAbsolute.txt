@@ -1,0 +1,15 @@
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\bin\Debug\net10.0\NumberOfSubmatrices.exe
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\bin\Debug\net10.0\NumberOfSubmatrices.deps.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\bin\Debug\net10.0\NumberOfSubmatrices.runtimeconfig.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\bin\Debug\net10.0\NumberOfSubmatrices.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\bin\Debug\net10.0\NumberOfSubmatrices.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.AssemblyInfoInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.AssemblyInfo.cs
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.csproj.CoreCompileInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.sourcelink.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\refint\NumberOfSubmatrices.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\NumberOfSubmatrices.genruntimeconfig.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\NumberOfSubmatrices\NumberOfSubmatrices\obj\Debug\net10.0\ref\NumberOfSubmatrices.dll

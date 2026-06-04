@@ -1,0 +1,15 @@
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\bin\Debug\net10.0\SingleNumberII.exe
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\bin\Debug\net10.0\SingleNumberII.deps.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\bin\Debug\net10.0\SingleNumberII.runtimeconfig.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\bin\Debug\net10.0\SingleNumberII.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\bin\Debug\net10.0\SingleNumberII.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.AssemblyInfoInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.AssemblyInfo.cs
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.csproj.CoreCompileInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.sourcelink.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\refint\SingleNumberII.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\SingleNumberII.genruntimeconfig.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\SingleNumberII\SingleNumberII\obj\Debug\net10.0\ref\SingleNumberII.dll
