@@ -1,0 +1,15 @@
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\bin\Debug\net10.0\Weighted Word Mapping.exe
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\bin\Debug\net10.0\Weighted Word Mapping.deps.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\bin\Debug\net10.0\Weighted Word Mapping.runtimeconfig.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\bin\Debug\net10.0\Weighted Word Mapping.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\bin\Debug\net10.0\Weighted Word Mapping.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.AssemblyInfoInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.AssemblyInfo.cs
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.csproj.CoreCompileInputs.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.sourcelink.json
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\refint\Weighted Word Mapping.dll
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.pdb
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\Weighted Word Mapping.genruntimeconfig.cache
+D:\Estudos\ExerciciosProgramacao\LeetCode\LeetCode\Weighted Word Mapping\Weighted Word Mapping\obj\Debug\net10.0\ref\Weighted Word Mapping.dll
